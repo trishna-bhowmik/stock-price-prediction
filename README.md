@@ -15,26 +15,6 @@ An AI-powered Stock Price Prediction System that estimates future stock values u
 Programming Language: Python
 Libraries Used: Pandas, NumPy, Matplotlib, Scikit-learn, Keras, yfinance, Streamlit
 
-📁 Project Structure
-Stock-Price-Prediction/
-│
-├── data/
-│   └── stock_data.csv
-│
-├── model/
-│   ├── stock_model.py
-│   └── rolling_avg_model.py
-│
-├── app/
-│   ├── app.py          
-│   ├── utils.py
-│   └── requirements.txt
-│
-├── notebooks/
-│   └── Stock_Prediction_Analysis.ipynb
-│
-└── README.md
-
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/Stock-Price-Prediction.git
